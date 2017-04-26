@@ -1,2 +1,2 @@
-# beta
-Beta version of site hosted at a different address
+# thunderdynamics.github.io
+Thunder Dynamics Website
