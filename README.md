@@ -1,2 +1,2 @@
-# thunderdynamics.github.io
-Thunder Dynamics Website
+# thunderdynamics.biz/beta
+Thunder Dynamics Website (beta)
