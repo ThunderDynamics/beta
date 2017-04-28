@@ -1,11 +1,9 @@
-.nav-wrapper {
-  margin: 0 auto;
-  width: 90%;
+
+/* MEDIA QUERIES */
+@media only screen and (min-width: 500px) {
+    .nav-wrapper {
+      margin: 0 auto;
+      width: 90%;
+  }
 }
 
-/* nav {
-  background-color: black;
-}
-*/
-
-/* Commented out because this shouldn't use CSS to complete, should use Materialize CSS builtin class "black" */
