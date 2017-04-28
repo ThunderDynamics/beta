@@ -3,6 +3,9 @@
   width: 90%;
 }
 
-nav {
+/* nav {
   background-color: black;
 }
+*/
+
+/* Commented out because this shouldn't use CSS to complete, should use Materialize CSS builtin class "black" */
