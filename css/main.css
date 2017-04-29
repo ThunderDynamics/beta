@@ -7,3 +7,12 @@
   }
 }
 
+/* HEADER */
+nav {
+  position: fixed;
+  z-index: 1000;
+}
+#header-img {
+  margin-top: 0.125em;
+  height: 1.75em;
+}
