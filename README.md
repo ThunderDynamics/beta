@@ -1,2 +1,4 @@
-# Beta of thunderdynamics.biz
+# thunderdynamics.biz
+
+Website for Thunder Dynamics, Inc. 
 
